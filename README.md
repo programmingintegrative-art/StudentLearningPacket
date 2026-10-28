@@ -34,13 +34,11 @@ Official documentation: https://nodejs.org/docs/ ; https://expressjs.com/ ; http
 Course Roadmap
 
 Weeks / Stage	Core learning	Lab / evidence	CLO
-1–3 Beginner	JS ES6+, Git, Node.js architecture	JS lab, repository/commit check, architecture quiz	1
-4–6 Developing	Async JS, fs/path/os/events, HTTP	Async file processor, raw HTTP server	2
-7–9 Competent	Express CRUD, middleware, REST, Postman	Express CRUD API,
-validation report, midterm	
-3
-10–14 Advanced	MongoDB/Mongoose, JWT, bcrypt, errors	DB CRUD, secure login, code review	4
-15–18 Mastery	Integration, deployment, README/API docs	Capstone URL/repo, test evidence, defense	5
+1–3 Beginner	JS ES6+, Git, Node.js architecture	JS lab, repository/commit check, architecture quiz	
+4–6 Developing	Async JS, fs/path/os/events, HTTP	Async file processor, raw HTTP server	
+7–9 Competent	Express CRUD, middleware, REST, Postman	Express CRUD API, validation report, midterm	
+10–14 Advanced	MongoDB/Mongoose, JWT, bcrypt, errors	DB CRUD, secure login, code review	
+15–18 Mastery	Integration, deployment, README/API docs	Capstone URL/repo, test evidence, defense	
 
 Dependency map: JavaScript + Git → Node.js and async I/O → HTTP → Express and REST → database persistence → authentication/error handling → deployment and defense.
 TOOL-TO-LESSON MAP: Install Node.js + npm and Git before Module 1; use Git in every module; introduce Express and Postman in Module 3; introduce MongoDB/Atlas and Mongoose in Module 4; add
